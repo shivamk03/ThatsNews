@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ThatsNews/precache-manifest.688e9ee25a0deb80457acefc30b35c2d.js"
+  "/ThatsNews/precache-manifest.27e9f9739a1b5d45eeb829a49ea94888.js"
 );
 
 workbox.clientsClaim();
