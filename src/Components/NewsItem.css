@@ -1,0 +1,39 @@
+@media screen and (max-width:1400px){
+    .card{
+        margin: 50px;
+        justify-content: space-around;
+        width: 100%;
+    }
+}
+.card{
+    width: 300px;
+    box-shadow: 2px 0px 5px #888888;
+    border-radius: 8px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content :space-between;
+    
+}
+.imgcontain{
+    height: 200px;
+}
+.imgcontain>img{
+    width: 100%;
+    height: auto;
+}
+.container {
+    padding: 2px 16px;
+    text-align: center;
+    align-items: center;
+}
+.readMoreBtn{
+    background-color: rgb(5, 58, 58);
+    width: 150px;
+    color: white;
+    border-radius: 5px;
+    height: 35px;
+    width: 100%;
+    cursor: pointer;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
