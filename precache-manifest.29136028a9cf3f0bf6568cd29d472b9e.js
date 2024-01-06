@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "f37dc5a503295bca73dd",
-    "url": "/ThatsNews/static/css/main.77117691.chunk.css"
+    "revision": "7bc006c36388a7d03709",
+    "url": "/ThatsNews/static/css/main.26083dbe.chunk.css"
   },
   {
-    "revision": "f37dc5a503295bca73dd",
-    "url": "/ThatsNews/static/js/main.f37dc5a5.chunk.js"
+    "revision": "7bc006c36388a7d03709",
+    "url": "/ThatsNews/static/js/main.7bc006c3.chunk.js"
   },
   {
     "revision": "03c018fb6e914630103e",
     "url": "/ThatsNews/static/js/1.03c018fb.chunk.js"
   },
   {
-    "revision": "f7e85e7e0d5bdb7d877a",
-    "url": "/ThatsNews/static/js/2.f7e85e7e.chunk.js"
+    "revision": "11858b3786e1d749f005",
+    "url": "/ThatsNews/static/js/2.11858b37.chunk.js"
   },
   {
     "revision": "3a50f91d79dbf21b7bd1",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/ThatsNews/static/media/Spinner.eccd8e89.gif"
   },
   {
-    "revision": "b6508cf05a1ab8a69bb916563b0eb557",
+    "revision": "b2a3c69746de056c76029fa674aef8f8",
     "url": "/ThatsNews/index.html"
   }
 ];
